@@ -1,0 +1,6 @@
+[submodule "third_party/yolox"]
+	path = third_party/yolox
+	url = https://github.com/Megvii-BaseDetection/YOLOX
+[submodule "third_party/nncf"]
+	path = third_party/nncf
+	url = https://github.com/openvinotoolkit/nncf.git
